@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-    <a href="https://honzaap.github.io/Pathfinding">
+    <a href="https://above-c-level.github.io/Pathfinding">
         <b>Try it out!</b>
     </a>
 </h2>
